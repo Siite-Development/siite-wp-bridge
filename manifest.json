@@ -1,0 +1,10 @@
+{
+  "name": "Siite WP Bridge",
+  "slug": "siite-wp-bridge",
+  "version": "1.10.0",
+  "package": "https://raw.githubusercontent.com/Siite-Development/siite-wp-bridge/main/siite-wp-bridge.zip",
+  "url": "https://github.com/Siite-Development/siite-wp-bridge",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "tested": "7.1"
+}
