@@ -1,7 +1,7 @@
 {
   "name": "Siite WP Bridge",
   "slug": "siite-wp-bridge",
-  "version": "1.13.0",
+  "version": "1.14.0",
   "package": "https://raw.githubusercontent.com/Siite-Development/siite-wp-bridge/main/siite-wp-bridge.zip",
   "url": "https://github.com/Siite-Development/siite-wp-bridge",
   "requires": "6.0",
